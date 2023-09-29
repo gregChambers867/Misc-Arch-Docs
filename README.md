@@ -5,7 +5,8 @@ Repo Contains Misc Architecture docs and UX designs from the last 2 years or so.
 
 
 Other Misc Stuff :
-IOT Juice Machine : https://youtu.be/qNPZsPI5_WE
+IOT Juice Machine - Lab : https://youtu.be/qNPZsPI5_WE
+IOT Juice Machine - Press Preview @ NRA : https://youtube.com/shorts/KIJajJGeEWU
 
 Bot Battle LLM and Unreal Engine Hype Video : https://youtu.be/ddh-OKINLIk
 
